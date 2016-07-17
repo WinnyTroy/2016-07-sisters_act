@@ -1,0 +1,16 @@
+#video iframe {
+    width: 100%;
+    height: 450px;
+}
+body {
+    background-color: grey;
+}
+#callout {
+    width: 1200px;
+    text-align: center;
+}
+
+/*
+.left{
+    float: left;
+}*/
